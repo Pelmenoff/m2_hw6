@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "m2-hw6"
+version = "0.1.0"
+description = ""
+authors = ["Pelmenoff <Titanfall@ukr.net>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+faker = "^19.6.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
