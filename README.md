@@ -1,5 +1,5 @@
-##Create database##
+## Create database
 py db_creator.py
 
-##Selections##
+## Selections
 py select.py [selection number]
